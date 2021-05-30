@@ -1,0 +1,10 @@
+[requires]
+gtest/1.10.0
+pybind11/2.6.2
+grpc/1.37.1
+
+[generators]
+cmake
+
+[options]
+gtest:shared=False

@@ -1,0 +1,17 @@
+# comment build to see artifacts
+build/
+
+# build/.vs
+# build/app
+# build/bin
+# build/CMakeFiles
+# build/lib
+# build/proto
+# build/src
+# build/test
+# build/x64
+# build/ALL*
+# build/c*
+# build/graph_info.json
+# build/PythonCpp.sln
+# build/ZERO*

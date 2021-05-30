@@ -1,0 +1,13 @@
+BasedOnStyle: LLVM
+
+AllowAllConstructorInitializersOnNextLine: false
+AllowShortFunctionsOnASingleLine: None
+AlwaysBreakTemplateDeclarations: Yes
+BinPackArguments: true
+BinPackParameters: true
+BreakConstructorInitializers: BeforeColon
+ColumnLimit: 200
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+Language: Cpp
+PointerAlignment: Left
+NamespaceIndentation: All
